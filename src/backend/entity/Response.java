@@ -1,12 +1,6 @@
 package backend.entity;
 
-/**
- * 
- * @author Cheng Wang
- * @date 4/11/2023
- * @description: basic custom response object
- *
- */
+
 public class Response {
 	private boolean flag;// success or fail
 	private String message; // exception message or other message

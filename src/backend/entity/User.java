@@ -1,12 +1,6 @@
 package backend.entity;
 
-/**
- * 
- * @author Cheng
- * @date 4/11/2023
- * @description: User Table
- *
- */
+
 public class User {
 	public static int id;
 	private String firstName;

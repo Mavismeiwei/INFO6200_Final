@@ -1,11 +1,5 @@
 package backend.entity;
 
-/**
- * 
- * @author Cheng
- * @date 4/11/2023
- * @description: Word Table
- */
 public class Word {
 //	private String word;
 //	private String wordEn;

@@ -20,13 +20,7 @@ public class WordTableSQL {
 //		return 0;
 //	};
 
-	/**
-	 * @author Cheng Wang
-	 * @date 4/11/2023
-	 * @description query all required words from word table
-	 * @param wordsNum
-	 * @return List of words
-	 */
+
 	public static List queryWords(int wordsNum) {
 		// Initial ArrayList
 		List<ArrayList<String>> wordsList = new ArrayList<>();
