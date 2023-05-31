@@ -1,0 +1,13 @@
+app:
+  admin: admin
+  password: admin
+  database: # default - MySQL
+    name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://127.0.0.1/csye6200
+    username: root
+    password:  lemon@123
+    port: 3306
+
+
+
+

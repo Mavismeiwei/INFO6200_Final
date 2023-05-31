@@ -1,0 +1,91 @@
+.background{
+    -fx-background-color:#86cadb;
+}
+.forgetBtn{
+    -fx-text-fill: #a3a3a3;
+}
+.forgetBtn:hover{
+    -fx-text-fill: #385edb;
+    -fx-underline:true;
+}
+
+.signUpBtn{
+    -fx-text-fill: #86cadb;
+    -fx-underline:true;
+}
+.signUpBtn:hover{
+    -fx-text-fill:#385edb;
+    -fx-underline:false;
+}
+
+.loginBtn{
+    -fx-background-color:#86cadb;
+    -fx-text-fill:#FFF;
+}
+.loginBtn:hover{
+    -fx-background-color:white;
+    -fx-text-fill:#86cadb;
+    -fx-border-color:#86cadb;
+    -fx-border-width:2px;
+    -fx-border-style:solid;
+}
+
+.signUpBtn1{
+    -fx-background-color:#86cadb;
+    -fx-text-fill:#FFF;
+}
+.signUpBtn1:hover{
+    -fx-background-color:white;
+    -fx-text-fill:#86cadb;
+    -fx-border-color:#86cadb;
+    -fx-border-width:2px;
+    -fx-border-style:solid;
+}
+
+.policy{
+    -fx-text-fill:#339cff;
+    -fx-underline:true;
+}
+.policy:hover{
+    -fx-text-fill:#385edb;
+    -fx-underline:false;
+}
+
+.mainBtn{
+    -fx-background-color:#86cadb;
+    -fx-text-fill:#3c3c3c;
+}
+.mainBtn:hover{
+    -fx-background-color:rgb(240, 240, 239);
+    -fx-text-fill:#86cadb;
+}
+
+.exitBtn{
+    -fx-background-color:#B0E0E6;
+}
+.exitBtn:hover{
+    -fx-background-color:rgb(240, 240, 239);
+    -fx-text-fill:#86cadb;
+}
+
+.choiceBtn{
+    -fx-background-color:#B0E0E6;
+}
+.choiceBtn:hover{
+    -fx-background-color:#339cff;
+    -fx-text-fill:white;
+}
+
+.table-view {
+    -fx-background-color: #cdeef3; /* Set background color */
+}
+.table-view .column-header{
+	-fx-background-color:#B0E0E6;
+	-fx-border-width:0 0 10 0;
+}
+
+.table-view .column-header .label{
+	-fx-text-fill:white;
+	-fx-font-family:Arial Black;
+	-fx-font-size:13px;
+}
